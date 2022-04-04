@@ -49,4 +49,5 @@
 >> 2. Role-playing 발매 수가 차이가 많이나지 않고 연도별 꾸준한 인기를 얻고있다라고 보여진다. 
 >> 3. Action 게임 발매수 가장 높고 발매수 차이가 많이나지않고 꾸준한 판매율이 나타난다.
 
+![Animation](https://user-images.githubusercontent.com/81940655/161544436-929c0821-6869-45be-b908-be86e5a0c0e8.gif)
  
